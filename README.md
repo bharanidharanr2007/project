@@ -151,7 +151,8 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/a1e00482-c86c-414f-b643-d30007932f78)
+
 
 
 ## RESULT:
